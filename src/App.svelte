@@ -1,7 +1,9 @@
-<script></script>
+<script>
+  let x = $state();
+</script>
 
-<h1>Svelte5 template</h1>
+<div>svelte5</div>
 
 <style lang="scss">
-  @use './styles/vars';
+  @import './styles/vars';
 </style>
